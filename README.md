@@ -14,10 +14,9 @@ I build web applications end to end, and I go deep where it matters most: design
 
 #### Featured projects
 
-- **🎚️ audio-lab** — a browser Digital Audio Workstation: a multi-track timeline on a Web Audio engine, a Python DSP backend, and natural-language AI control of effects through structured LLM output.
-- **🎥 just-us** — a real-time two-person video experience built on WebRTC, with synchronized in-call mini-games, scheduling, and invite flows.
-- **🌳 family-tree** — a multi-tenant family-tree platform with AI portrait generation, voice-to-text profiles, and a relationship-inference engine.
-- **🌐 Developer Portfolio** — an interactive portfolio built with Next.js and 3D/animation.
+- 🎚️ **[audio-lab](https://github.com/lotodee/audio-lab)** — a browser Digital Audio Workstation: a multi-track timeline on a Web Audio engine, a Python DSP backend, and natural-language AI control of effects through structured LLM output.
+- 🎥 **[just-us](https://github.com/lotodee/just-us)** — a real-time two-person video experience built on WebRTC, with synchronized in-call mini-games, scheduling, and invite flows.
+- 🌳 **[family-tree](https://github.com/lotodee/family-tree)** — a multi-tenant family-tree platform with AI portrait generation, voice-to-text profiles, and a relationship-inference engine.
 
 #### Tech I work with
 
