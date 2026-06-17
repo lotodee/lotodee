@@ -28,4 +28,6 @@ I build web applications end to end, and I go deep where it matters most: design
 
 ---
 
+⚡ Currently focused on AI/LLM evaluation, RAG, and agent tooling.
+
 📫 Open to conversations about full-stack and AI/LLM engineering roles.
